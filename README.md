@@ -1,6 +1,6 @@
 # bob
 
-
+![yup](https://github.com/j-d-carmichael/capacitor-demo/raw/main/giffygif.gif)
 
 ## Project setup
 ```
