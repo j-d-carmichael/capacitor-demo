@@ -1,0 +1,9 @@
+{
+	"appId": "com.example.app",
+	"appName": "bob",
+	"webDir": "dist",
+	"bundledWebRuntime": false,
+	"ios": {
+		"contentInset": "always"
+	}
+}
